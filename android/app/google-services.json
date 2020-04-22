@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "645691729313",
+    "firebase_url": "https://fir-flutter-auth-nanda.firebaseio.com",
+    "project_id": "fir-flutter-auth-nanda",
+    "storage_bucket": "fir-flutter-auth-nanda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645691729313:android:c91009792da2c9076697e0",
+        "android_client_info": {
+          "package_name": "com.dana.firebase_fluter_auth_nanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645691729313-o3g2310q77epnioiktlrolvqn2efvpp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dana.firebase_fluter_auth_nanda",
+            "certificate_hash": "635c64fe0c229eb8e6aa729c25ff1fa54458af23"
+          }
+        },
+        {
+          "client_id": "645691729313-092cl7s6f8h2lp98hqb4mhvc63631sp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcd4ErWQvaOIY6z46DrgXGJVdZUxHRQMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645691729313-092cl7s6f8h2lp98hqb4mhvc63631sp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
