@@ -1,5 +1,6 @@
-
-[test](assets/maskotstikom.png)
+<img src="assets/maskotstikom.png"
+     alt="Nanda"
+     style="float: left; margin-right: 10px;" />
 # firebase_fluter_auth_nanda
 
 A new Flutter project.
